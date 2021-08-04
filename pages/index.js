@@ -12,4 +12,5 @@ const Home = () => {
 
   return <WithAuthHomePage isLogin={isLogin} />;
 };
+
 export default Home;
